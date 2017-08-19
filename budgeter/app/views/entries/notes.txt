@@ -1,0 +1,13 @@
+budgeter notes:
+
+this program is meant to replace an excel spreadsheet for creating and
+tracking budget items.
+I will do this by creating a database of transaction entries.
+the end goal is to automate this process using ajax
+need total monthly amount
+need categories for transactions
+need calculators for how much i have spent and how much I can 
+need calculator for statistics, such as percent of months within set budget
+need models and calculator for monthly static expenses 
+need calculator for goals
+ date amount categories
